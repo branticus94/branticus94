@@ -1,16 +1,16 @@
-## Hi there 👋
+# 👋 Hi, I'm Alexandra Howland
 
-<!--
-**branticus94/branticus94** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a software engineering student with interests in data, backend development, and creating meaningful tech solutions.
 
-Here are some ideas to get you started:
+## 🔧 Skills
+- Python, SQL, HTML/CSS, JavaScript
+- Relational databases (MariaDB, MySQL)
+- Data analysis with Pandas, NumPy
+- Git & GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📁 Projects
+- 🚑 **Healthcare AI Presentation** – Explored AI's role in modern healthcare
+- 🏥 **Client Database App** – Built a full database with procedures & validation
+
+## 📫 Contact Me
+[Email me](mailto:alexandra.e.howland@gmail.com)
