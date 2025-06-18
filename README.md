@@ -3,9 +3,9 @@
 I'm a software engineering student with interests in data, backend development, and creating meaningful tech solutions.
 
 ## 🔧 Skills
-- Python, SQL, HTML/CSS, JavaScript
-- Relational databases (MariaDB, MySQL)
-- Data analysis with Pandas, NumPy
+- Python, Java, SQL, HTML/CSS, JavaScript
+- Relational databases (MySQL)
+- Data analysis and visualisation with Pandas, NumPy
 - Git & GitHub
 
 ## 📁 Projects
