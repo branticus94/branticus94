@@ -9,8 +9,10 @@ I'm a software engineering student with interests in data, backend development, 
 - Git & GitHub
 
 ## 📁 Projects
-- 🚑 **Healthcare AI Presentation** – Explored AI's role in modern healthcare
-- 🏥 **Client Database App** – Built a full database with procedures & validation
+- 🤖 **TriviaDB CLI App** – Python-based trivia game integrating with the Open Trivia API
+- 📊 **COVID Data Analysis** – Built an ETL pipeline combining multiple APIs and datasets, focused on interactive visual analytics
+- 🌐 **Portfolio Website** – Designed and developed a personal portfolio site to showcase projects and skills
+- 📚 **Library API Development** – Created a Python Flask REST API integrated with a SQL backend
 
 ## 📫 Contact Me
 [Email me](mailto:alexandra.e.howland@gmail.com)
