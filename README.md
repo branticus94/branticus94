@@ -16,3 +16,9 @@ I'm a software engineering student with interests in data, backend development, 
 
 ## 📫 Contact Me
 [Email me](mailto:alexandra.e.howland@gmail.com)
+
+## 📊 GitHub Stats
+ 
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=branticus94&layout=compact&theme=radical)
+ 
+![Alexandra's GitHub Stats](https://github-readme-stats.vercel.app/api?username=branticus94&show_icons=true&theme=radical)
