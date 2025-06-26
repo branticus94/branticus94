@@ -19,6 +19,6 @@ I'm a software engineering student with interests in data, backend development, 
 
 ## 📊 GitHub Stats
  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=branticus94&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=branticus94&layout=compact)
  
-![Alexandra's GitHub Stats](https://github-readme-stats.vercel.app/api?username=branticus94&show_icons=true&theme=radical)
+![Alexandra's GitHub Stats](https://github-readme-stats.vercel.app/api?username=branticus94&show_icons=true)
