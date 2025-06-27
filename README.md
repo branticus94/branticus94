@@ -2,11 +2,22 @@
 
 I'm a software engineering student with interests in data, backend development, and creating meaningful tech solutions.
 
-## 🔧 Skills
-- Python, Java, SQL, HTML/CSS, JavaScript
-- Relational databases (MySQL)
-- Data analysis and visualisation with Pandas, NumPy
-- Git & GitHub
+## 🛠️ Skills
+### Programming Languages & Web Technologies
+- Python, Java, SQL
+- HTML, CSS, JavaScript
+
+### Databases
+- Relational Databases: MySQL
+- Database Design: Normalisation, Transactions, ACID Principles
+
+### Data Analysis & Visualisation
+- Pandas, NumPy, Matplotlib
+- Data Cleaning, Aggregation, Visual Analytics
+
+### Tools & Version Control
+- Git & GitHub/Gitlab
+- VS Code, PyCharm
 
 ## 📁 Projects
 - 🤖 **TriviaDB CLI App** – Python-based trivia game integrating with the Open Trivia API
